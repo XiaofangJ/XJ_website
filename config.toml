@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "xiaofang@mit.edu"
+  email = "mailto:xiaofang@mit.edu"
   address = "415M-7029-H, Broad Institute, Cambridge, MA 02142, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
@@ -248,7 +248,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:xiaofangt@mit.edu"
+    link = "xiaofangt@mit.edu"
 
   [[params.social]]
     icon = "google-scholar"
