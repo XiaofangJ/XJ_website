@@ -1,7 +1,7 @@
 +++
 title = "Predictability and persistence of prebiotic dietary supplementation in a healthy human cohort"
 date = "2018-01-01"
-authors = ["Gurry, Thomas", "Gibbons, Sean M", "Kearney, Sean M", "Ananthakrishnan, Ashwin", "**Jiang, Xiaofang**", "Duvallet, Claire", "Kassam, Zain", "Alm, Eric J"] 
+authors = ["Thomas Gurry", "Sean M Gibbons", "Sean M Kearney", "Ashwin Ananthakrishnan", "**Xiaofang Jiang**", "Claire Duvallet", "Zain Kassam", "Eric J Alm"]
 publication_short = "Scientific reports, 8(1), p.12699."
 abstract = ""
 abstract_short = ""
