@@ -6,11 +6,19 @@
     <description>Recent content in Homes on Xiaofang Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recent updates</title>
+      <link>/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>I will start my lab at NLM NIH as a tenure-track investigator in August 2019. Multiple positions are available.</description>
+    </item>
     
     <item>
       <title></title>
@@ -22,39 +30,49 @@
     </item>
     
     <item>
+      <title>Research Experiences</title>
+      <link>/home/experiences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/experiences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/home/skills/</link>
-      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/home/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <title>Research Interests</title>
+      <link>/home/research/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/teaching/</guid>
-      <description>Kaufman Teaching Certificate Program (KTCP)</description>
+      <guid>/home/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunities</title>
+      <link>/home/opportunities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/opportunities/</guid>
+      <description>We are looking for self-motivated and enthusiastic postdocs and visiting scholars to join our team.
+If you have a background in bioinformatics, microbiology, genomics, computer science, statistics or other related fields, please feel free to email me (xiaofang at xiaofnagjiang dot com) with a description of your research interests and your CV.</description>
     </item>
     
     <item>

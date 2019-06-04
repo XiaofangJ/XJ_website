@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Xiaofang Jiang</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Xiaofang Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FDA Office of Biostatistics</title>
+      <link>/project/fad/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/fad/</guid>
+      <description>Since 2016-09-01 I have been on detail to the FDA CDER Office of Biostatistics through an Interagency Personnel Agreement between FDA and Vanderbilt University Medical Center. This involves writing papers, developing teaching material, and teaching statisticians, medical reviewers, policy experts, and epidemiologists, and consulting on specific sponsor submissions that use Bayesian methods.</description>
+    </item>
+    
+  </channel>
+</rss>

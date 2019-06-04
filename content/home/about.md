@@ -4,7 +4,7 @@ widget = "about"
 active = true
 
 # Order that this section will appear in.
-weight = 5
+weight = 20
 
 # List your academic interests.
 [interests]
@@ -18,7 +18,7 @@ weight = 5
 #[[education.courses]]
 #  course = "PhD in Artificial Intelligence"
 #  institution = "Stanford University"
-#  year = 2012
+#  year = 2012ssachusetts Institute of Technology
 
 [[education.courses]]
   course = "PhD in Genetics, Bioinformatics and Computational Biology"

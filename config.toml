@@ -14,7 +14,7 @@ title = "Xiaofang Jiang"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+# copyright = "&copy; 2018"
 
 theme = "academic"
 enableEmoji = true
@@ -53,17 +53,17 @@ enableGitInfo = false
 
   # Your details.
   name = "Xiaofang Jiang"
-  role = "Postdoc in Bioinformatics"
+  role = "Tenure-track investigator at the National Library of Medicine of NIH (Start Date: August 2019)"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Massachusetts Institute of Technology", url = "http://web.mit.edu" } ]
+  organizations = [ { name = "National Library of Medicine", url = "https://www.nlm.nih.gov/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "mailto:xiaofang@mit.edu"
+  email = "mailto:xiaofang@xiaofangjiang.com"
   address = "415M-7029-H, Broad Institute, Cambridge, MA 02142, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
@@ -210,7 +210,7 @@ enableGitInfo = false
 
   # Configuration of project pages.
 #  [params.projects]
-    # List publications and talks related to the project?
+#    # List publications and talks related to the project?
 #    list_children = true
 
     # Publication list format.
@@ -248,7 +248,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "xiaofangt@mit.edu"
+    link = "xiaofangt@xiaofangjiang.com"
 
   [[params.social]]
     icon = "google-scholar"
@@ -281,23 +281,23 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Experiences"
+  url = "#experiences"
   weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+  name = "Publications"
+  url = "#publications_selected"
+  weight = 3
 
 #[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
+#  name = "Research"
+#  url = "#research"
 #  weight = 4
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "Opportunities"
+  url = "#opportunities"
   weight = 5
 
 [[menu.main]]

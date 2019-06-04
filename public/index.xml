@@ -6,9 +6,35 @@
     <description>Recent content in Xiaofang Jiang on Xiaofang Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Invertible promoters mediate bacterial phase variation, antibiotic resistance, and host adaptation in the gut</title>
+      <link>/publication/2019-01-11_invertible_promoters/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-11_invertible_promoters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gut microbiota composition and functional changes in inflammatory bowel disease and irritable bowel syndrome</title>
+      <link>/publication/2018-12-19_gut_microbiota_composition/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-12-19_gut_microbiota_composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of 1135 gut metagenomes identifies sex-specific resistome profiles</title>
+      <link>/publication/2018-01-01_analysis_of_1135_gut/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_analysis_of_1135_gut/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comprehensive analysis of mobile genetic elements in the gut microbiome reveals phylum-level niche-adaptive gene pools</title>
@@ -16,6 +42,15 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/2018-01-01_comprehensive_analys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictability and persistence of prebiotic dietary supplementation in a healthy human cohort</title>
+      <link>/publication/2018-01-01_predictability_and_persistence/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_predictability_and_persistence/</guid>
       <description></description>
     </item>
     
@@ -106,42 +141,6 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>/publication/2015-01-01_genome_sequence_of_t/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Highly evolvable malaria vectors: the genomes of 16 Anopheles mosquitoes</title>
-      <link>/publication/2015-01-01_highly_evolvable_mal/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2015-01-01_highly_evolvable_mal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genome analysis of a major urban malaria vector mosquito, Anopheles stephensi</title>
-      <link>/publication/2014-01-01_genome_analysis_of_a/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2014-01-01_genome_analysis_of_a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Insights into the preservation of the homomorphic sex-determining chromosome of Aedes aegypti from the discovery of a male-biased gene tightly linked to the M-locus</title>
-      <link>/publication/2014-01-01_insights_into_the_pr/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2014-01-01_insights_into_the_pr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrated proteomic and transcriptomic analysis of the Aedes aegypti eggshell</title>
-      <link>/publication/2014-01-01_integrated_proteomic/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2014-01-01_integrated_proteomic/</guid>
       <description></description>
     </item>
     
