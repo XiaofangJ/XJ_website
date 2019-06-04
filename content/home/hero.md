@@ -13,8 +13,7 @@ title = "Recent updates"
 [header]
   overlay_color = "#00008b"  # An HTML color value.
   overlay_img = "NLM.jpg"  # Image path relative to your `static/img/` folder.
-  gradient_start=0.8  # Darken the image. Value in range 0-1.
-  gradient_end=0.1  # Darken the image. Value in range 0-1.
+  overlay_filter  = 0.2
 
 
 [cta]
