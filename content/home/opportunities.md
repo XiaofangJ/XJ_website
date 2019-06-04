@@ -15,4 +15,4 @@ weight = 70
 +++
 We are looking for self-motivated and enthusiastic postdocs and visiting scholars to join our team. 
 
-If you have a background in bioinformatics, microbiology, genomics, computer science, statistics or other related fields,  please feel free to email me (xiaofang at xiaofnagjiang dot com) with a description of your research interests and your CV.
+If you have a background in bioinformatics, microbiology, genomics, computer science, statistics or other related fields,  please feel free to email me (xiaofang at xiaofangjiang dot com) with a description of your research interests and your CV.
