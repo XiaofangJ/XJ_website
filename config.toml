@@ -248,7 +248,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "xiaofangt@xiaofangjiang.com"
+    link = "xiaofang@xiaofangjiang.com"
 
   [[params.social]]
     icon = "google-scholar"
