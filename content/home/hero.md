@@ -21,6 +21,6 @@ title = "Recent updates"
  label = "See opportunities"
 
 +++
+We are looking for self-motivated and enthusiastic postdocs and visiting scholars to join our team.
 
-I will start my lab at [NLM](https://www.nlm.nih.gov/) [NIH](https://www.nih.gov/) as a tenure-track investigator in August 2019. Multiple positions are available.
-
+Multiple positions are available in my lab at [NLM](https://www.nlm.nih.gov/) [NIH](https://www.nih.gov/).

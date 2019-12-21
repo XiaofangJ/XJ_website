@@ -1,14 +1,14 @@
 +++
 title = "Comprehensive analysis of mobile genetic elements in the gut microbiome reveals phylum-level niche-adaptive gene pools"
-date = "2018-01-01"
+date = "2019-12-21"
 authors = ["**Xiaofang Jiang**&ast;", "Andrew Brantley Hall&ast;", "Ramnik J Xavier", "Eric J Alm"]
-publication_types = ["2"]
-publication = "bioRxiv, _pp. 214213_"
-publication_short = "bioRxiv, _pp. 214213_"
+publication_types = []
+publication = "PloS one 14 (12), e0223680"
+publication_short = "PloS one 14 (12), e0223680"
 abstract = ""
 abstract_short = ""
 image_preview = ""
-selected = false
+selected = true
 projects = []
 tags = []
 url_pdf = ""
